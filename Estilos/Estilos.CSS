@@ -21,7 +21,7 @@
     text-align: center;
     justify-content: space-around;
     background: content-box;
-    background-color: bisque;
+    background-color: rgba(33, 14, 238, 0.566);
     
 }
 .contenido
@@ -38,7 +38,7 @@
 {
     border-radius: 5px;
     background-color: rgb(79, 247, 199);
-    color: white;
+    color: grey;
     border: none;
     cursor: pointer;
     padding: 0;
@@ -56,7 +56,7 @@
 {
     border-radius: 5px;
     background-color: rgba(79, 247, 199, 0.933);;
-    color: white;
+    color: grey;
     border: none;
     cursor: pointer;
     padding: 0;
@@ -74,7 +74,7 @@
 {
     border-radius: 5px;
     background-color: rgba(79, 247, 199, 0.878);;
-    color: white;
+    color: grey;
     border: none;
     cursor: pointer;
     padding: 0;
@@ -92,7 +92,7 @@
 {
     border-radius: 5px;
     background-color: rgba(79, 247, 199, 0.725);;
-    color: white;
+    color: grey;
     border: none;
     cursor: pointer;
     padding: 0;
