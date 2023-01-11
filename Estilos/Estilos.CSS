@@ -1,0 +1,23 @@
+#footer
+{
+    background-color: rgba(13, 193, 193, 0.853);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#registroCorreo
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    font-weight: bold;
+}
+#correo
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgba(194, 238, 231, 0.903);
+    border-radius: 5px;
+    color: white;
+}
+#BtnCorreo
+{
+    
+}
