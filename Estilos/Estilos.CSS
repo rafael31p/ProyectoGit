@@ -112,3 +112,40 @@
     line-height: inherit;
     border: none;
 }
+#footer
+{
+    background-color: rgba(13, 193, 193, 0.853);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#registroCorreo
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+    font-weight: bold;
+}
+#correo
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: rgba(194, 238, 231, 0.903);
+    border-radius: 5px;
+    color: white;
+}
+#BtnCorreo
+{
+    border-radius: 5px;
+    background-color: rgb(79, 216, 247);
+    color: grey;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    font-weight: 1000;
+    display: inline-block;
+    font-size: medium;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    white-space: nowrap;
+    vertical-align: middle;
+}
